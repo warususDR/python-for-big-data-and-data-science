@@ -1,0 +1,1 @@
+print("Dmytrii Rakitenko, KN-Group-6")
